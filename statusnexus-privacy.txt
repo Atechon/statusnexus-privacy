@@ -1,0 +1,45 @@
+# Privacy Policy for StatusNexus
+
+**Last updated: June 2026**
+
+## What StatusNexus Does
+StatusNexus is a WhatsApp and Telegram status viewer and downloader for Android.
+It reads status media that you have already viewed in WhatsApp or Telegram,
+and saves copies to your device gallery upon your request.
+
+## Data We Collect
+StatusNexus does **not** collect, store, or transmit any personal data to
+any server. All media files remain on your device only.
+
+We use **Google AdMob** to display advertisements. AdMob may collect:
+- Device advertising ID
+- Approximate location (country/region)
+- App usage information
+
+This data is collected by Google, not by us. See Google's privacy policy:
+https://policies.google.com/privacy
+
+## Permissions Used
+- **Storage / Media**: To read WhatsApp/Telegram statuses and save
+  downloaded files to your gallery.
+- **Biometric**: To protect the Vault feature (optional, device-only).
+- **Notifications**: To notify you when downloads complete (optional).
+- **Internet**: Required to load advertisements.
+
+## Third-Party Services
+- Google AdMob (advertising) — https://policies.google.com/privacy
+- Google Play Services
+
+## Data Retention
+No user data is retained by StatusNexus. Media files saved to your device
+can be deleted by you at any time through the app or your device gallery.
+
+## Children's Privacy
+StatusNexus is not directed at children under 13 and does not knowingly
+collect data from children.
+
+## Contact
+For privacy questions, contact: techunch@gmail.com
+## Changes
+We may update this policy. Continued use of the app after changes
+constitutes acceptance of the new policy.
