@@ -101,7 +101,7 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 If you have any questions or concerns about this Privacy Policy or how StatusNexus handles data, please contact:
 
-**Email:** YOUR_EMAIL@example.com
+**Email:** techunch@gmail.com
 
 ---
 
